@@ -1,1 +1,2 @@
+The sky is blue. Foo bar.
 Foo bar. Foo bar. Bar foo. Foo barrrrrr
